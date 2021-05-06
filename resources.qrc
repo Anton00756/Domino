@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>pictures/BaseDom.png</file>
+        <file>pictures/domino.png</file>
+        <file>pictures/1.png</file>
+        <file>pictures/2.png</file>
+        <file>pictures/3.png</file>
+        <file>pictures/4.png</file>
+        <file>pictures/5.png</file>
+        <file>pictures/6.png</file>
+        <file>pictures/table.jpg</file>
+        <file>pictures/star.png</file>
+    </qresource>
+</RCC>
